@@ -16,6 +16,22 @@
     "url": "https://github.com/rwxmad/eslint-config-rwxmad/issues"
   },
   "homepage": "https://github.com/rwxmad/eslint-config-rwxmad#readme",
+  "keywords": [
+    "js",
+    "javascript",
+    "ecmascript",
+    "node",
+    "nodejs",
+    "lint",
+    "format",
+    "eslint",
+    "prettier",
+    "quality",
+    "fix",
+    "config",
+    "eslint-config",
+    "prettier-config"
+  ],
   "devDependencies": {
     "eslint": "^8.4.0",
     "eslint-config-prettier": "^8.3.0",
