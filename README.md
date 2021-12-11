@@ -2,6 +2,7 @@
 
 ![npm](https://img.shields.io/npm/v/eslint-config-rwxmad)
 ![npm peer dependency version (scoped)](https://img.shields.io/npm/dependency-version/eslint-config-rwxmad/peer/eslint)
+![test](https://github.com/rwxmad/eslint-config-rwxmad/actions/workflows/test.yml/badge.svg)
 
 Extended and modified `eslint:recommended` configuration, with prettier plugin
 
